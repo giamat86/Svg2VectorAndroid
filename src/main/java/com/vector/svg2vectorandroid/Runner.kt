@@ -1,7 +1,7 @@
 package com.vector.svg2vectorandroid
 
 /**
- * Rewrited by giamat on 07/11/18.
+ * Rewritten by giamat on 07/11/18.
  */
 object Runner {
     @JvmStatic
