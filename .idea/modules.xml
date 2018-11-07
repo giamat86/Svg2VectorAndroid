@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Svg2VectorAndroid.iml" filepath="$PROJECT_DIR$/.idea/Svg2VectorAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Svg2VectorAndroid_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Svg2VectorAndroid_main.iml" group="Svg2VectorAndroid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Svg2VectorAndroid_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Svg2VectorAndroid_test.iml" group="Svg2VectorAndroid" />
+    </modules>
+  </component>
+</project>
